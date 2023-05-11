@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @katehyeon
+- 👋 Hi, I’m @katehyeon. Welcome to my github!
 - 📚 I am a second-year MPA student at Columbia SIPA.
 - 🎯 I aspire to work at the intersection of social impact and data analysis.
+- 👾 I am excited to share with you some of my school projects, which reflect my current focus in public policy and background in business analytics.
