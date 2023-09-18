@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @katehyeon. Welcome to my GitHub!
 - 📚 I am a recent graduate from Columbia SIPA's MPA program.
 - 🎯 I aspire to work at the intersection of social impact and data analysis.
-- 👾 I am excited to share with you some of my projects, which reflect my current focus on public policy and background in business analytics.
+- 👾 I am excited to share with you some of my projects, which reflect my current focus on public policy and background in data analytics.
